@@ -122,10 +122,6 @@ Convertir la deuda bancaria en el mayor programa de vivienda social de la democr
    - Países Bajos: pluralidad de gestores
    - Reino Unido: contratos de desempeño
 
-### 📄 Documento Completo
-
-- **[Propuesta Completa en PDF](docs/propuesta-completa.pdf)** (17 páginas)
-
 ---
 
 ## 💾 Datos Abiertos
