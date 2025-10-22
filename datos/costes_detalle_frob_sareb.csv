@@ -1,0 +1,13 @@
+Organismo,Concepto,Coste_Minimo_Millones_Euros,Coste_Maximo_Millones_Euros
+FROB,Gastos de personal,2.0,3.0
+FROB,Alquiler oficinas y sedes,0.15,0.35
+FROB,"Asesoramiento externo (legal, financiero)",5.0,8.0
+FROB,Tecnología y sistemas,0.5,1.0
+FROB,Otros gastos operativos,0.3,0.5
+Sareb,Personal directo (200-300 empleados),15.0,24.0
+Sareb,Alquiler oficinas Torre Picasso Madrid,1.5,2.5
+Sareb,Servicers y gestores externos,80.0,120.0
+Sareb,Asesoramiento legal y financiero,10.0,15.0
+Sareb,Tecnología y sistemas,3.0,5.0
+Sareb,Mantenimiento de activos,30.0,50.0
+Sareb,Otros gastos operativos,5.0,8.0
